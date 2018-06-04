@@ -1,6 +1,8 @@
 # s3-bucket-reader
 All the files for the implementation can be found in the Request folder.
 
+I have completed Epic 1 
+
 ## Requires
 Composer and PHP > 5
 
