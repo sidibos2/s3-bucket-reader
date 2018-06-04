@@ -26,7 +26,7 @@ try {
     echo 'Accounts in Debt' . PHP_EOL.PHP_EOL;
     print_r($accountsInDebt);
 } catch (Exception $ex) {
-    echo $ex->getMessage();
+    echo 'Error - '. $ex->getMessage();
 }
 
 
